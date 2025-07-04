@@ -29,7 +29,7 @@ This file contains the names of the folders to be created. Each line represents 
 
 | Step | Description               | Screenshot |
 |------|---------------------------|------------|
-| 1️⃣   |  Original Script           | ![CSV Preview](./Images/ccreate_folders.png) |
+| 1️⃣   |  Original Script           | ![CSV Preview](./Images/create_folders.png) |
 | 2️⃣   | Interactive Script         | ![Script Editor](./Images/Interactive.png) |
 
 
